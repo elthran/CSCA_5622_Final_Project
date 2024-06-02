@@ -7,3 +7,7 @@ It has training data describing a lot of house sales, and the amount of money th
 I am going to combine this data, clean and visualize it, then use the training data to build some models to try to predict the sale price as accurately as I can. Then I will submit the test data with mypredictions to Kaggle to see if my results are valid.
 
 The data should be attached in a folder called 'data/' which includes a "data_description.txt" file from Kaggle which explains all of the features.
+
+# Link To Code Repository
+
+https://github.com/elthran/CSCA_5622_Final_Project
